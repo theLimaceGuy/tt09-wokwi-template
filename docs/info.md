@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a simple digital circuit that was designed beginning November 7, 2024 with TinyTapeout and UCSD in La Jolla.
 
 ## How to test
 
-Explain how to use your project
+The test process is very simple and TBD
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A logic analyzer is helpful.
