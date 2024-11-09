@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a simple digital circuit that was designed beginning November 7, 2024 with TinyTapeout and UCSD in La Jolla.
+This is a simple digital circuit that was designed beginning November 7, 2024 with TinyTapeout and UCSD in La Jolla.  I was updated to add a flip-flop but it is next yet complete
 
 ## How to test
 
-The test process is very simple and TBD
+The test process is very simple and will be provided later.
 
 ## External hardware
 
-A logic analyzer is helpful.
+A logic analyzer is helpful as this design evolves.
