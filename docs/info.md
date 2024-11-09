@@ -9,7 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a simple digital circuit that was designed beginning November 7, 2024 with TinyTapeout and UCSD in La Jolla.  I was updated to add a flip-flop but it is next yet complete
+This is a simple digital circuit that was designed beginning November 7, 2024 with TinyTapeout and UCSD in La Jolla.  I was updated to add a flip-flop but it is next yet complete.
+
+In the next phase of the design, I added a configured two flip flops and made a clock divider.
 
 ## How to test
 
